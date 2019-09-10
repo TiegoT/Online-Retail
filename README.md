@@ -1,2 +1,2 @@
 # Online-Retail
-Jupyter Notebook containing notes on customer segmentation on oneline retail data.
+Jupyter Notebook containing notes for doing customer segmentation & lifetime value on online retail data.
